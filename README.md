@@ -5,7 +5,7 @@ three js GNM head editor
 
 Gool is to have most realistic head model possible.<br>
 Use GNM model provide by google.<br>
-Custom made texture, render on three tsl and post process.<br>
+Custom textures remap, render on three tsl and post process.<br>
 I use default three MeshSSSNodeMaterial and focus effect<br>
 Let me know if you're interested in the source code.<br>
 
