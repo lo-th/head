@@ -1,0 +1,22 @@
+{
+  "name": "head",
+  "version": "0.0.1",
+  "description": "three.js head",
+  "scripts": {
+    "build": "rollup -c \"rollup_config.js\"",
+    "start": "http-server ./ -c-1 -a localhost -p 8522 -o ./index.html"
+  },
+  "author": "lo_th",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "three": "0.185.1",
+    "@mediapipe/tasks-vision": "^0.10.34"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-terser": "^1.0.0",
+    "http-server": "14.1.1",
+    "rollup": "^4.6.0"
+  }
+}

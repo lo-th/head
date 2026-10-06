@@ -1,0 +1,9 @@
+prepa
+*.sh
+desktop.ini
+package-lock.json
+node_modules
+assets/textures/tmp
+bundle
+src
+dev.html
