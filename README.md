@@ -12,8 +12,9 @@ Let me know if you're interested in the source code.<br>
 
 ### Improvement
 
-Eyebrow, hair, wrinkle map.<br> 
-Real webgpu vertex tranform and easy head manimulator.<br>
-Mobile support.<br>
+Convert to full webgpu tsl vertex tranform<br> 
+Add on head morph manimulator<br>
+Eyebrow, hair, wrinkle map<br>
+Mobile support<br>
   
 if you enjoy the project help by sponsoring.<br>
