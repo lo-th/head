@@ -3,9 +3,9 @@ three js GNM head editor
 
 ### About
 
-Gool is to have mose realist head model possible.<br>
+Gool is to have most realistic head model possible.<br>
 Use GNM model provide by google.
-Custom made realist texture whih three tsl and post process.
+Custom made texture, render on three tsl and post process.
 
 ### Improvement
 
